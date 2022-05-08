@@ -1,0 +1,9 @@
+Index(['budget', 'genres', 'homepage', 'id', 'keywords', 'original_language',
+       'original_title', 'overview', 'popularity', 'production_companies',
+       'production_countries', 'release_date', 'revenue', 'runtime',
+       'spoken_languages', 'status', 'tagline', 'title', 'vote_average',
+       'vote_count', 'movie_id', 'cast', 'crew'],
+      dtype='object')
+
+
+'movie_id' , 'title', 'overview' , 'genres' , 'keywords' ,  'cast', 'crew'
